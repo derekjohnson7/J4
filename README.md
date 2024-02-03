@@ -1,4 +1,4 @@
-This website project is dedicated to showcasing the beautiful woodworking creations crafted by [Your Parents' Names]. The goal is to provide a visually appealing and intuitive user interface to highlight their custom cutting boards, ornaments, coasters, and various other woodworking projects.
+This website project is dedicated to showcasing the beautiful woodworking creations crafted by Chris and Kim Johnson. The goal is to provide a visually appealing and intuitive user interface to highlight their custom cutting boards, ornaments, coasters, and various other woodworking projects.
 
 ## Features
 
